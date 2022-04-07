@@ -1,0 +1,326 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Tarun Kumar Yerra",
+    "label": "Actively seeking internship opportunities | Computer Science at Portland State University | Ex- EY.",
+    "image": "",
+    "email": "Tarunykumary@gmail.com",
+    "phone": "+1 (971) 380-6374",
+    "url": "",
+    "summary": "I define myself as a passionate and curious programmer and I keep myself updated with new technologies and practices.\nI am a graduate student at Portland State University, working on my master's in computer science and engineering with a specialization in AI/ML. I will be graduating in March 2023 and actively looking for full-time opportunities as a software developer.\nI have two and half years of experience in software development, Data Science & Data Analytics, as a full-time employee where I constantly met deadlines and absorbed many organizational and interpersonal skills.\n\nSkills:\n• Strong in Python, Java, Elastic Search, SQL, R, UNIX, Hadoop, Hive, HTML5, CSS.\n• Database Technologies like MYSQL, MongoDB, PostgreSQL.\n• Thorough understanding of the software development cycle.\n• Agile software development process.\n• Operating System: Windows, macOS, Linux.\n• Google cloud platform, AWS.\n• Project Management, Leadership.\n\nI believe the strongest strength is having a passion for it.",
+    "location": {
+      "countryCode": "US",
+      "address": "1604, SW Clay St, Goose Hollow Plaza"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "ACoAABpYuScB6kkRkca1FHCiTfjwaIsATutfB_0",
+        "url": "https://www.linkedin.com/in/ACoAABpYuScB6kkRkca1FHCiTfjwaIsATutfB_0/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "EY",
+      "position": "Assurance Associate",
+      "startDate": "2019-09-30",
+      "endDate": "2021-09-30",
+      "highlights": [],
+      "summary": "The primary focus was on the implementation of various aspects in Forensic analysis and\ninvestigations on information governance.\n- Worked extensively on developing End to End solutions and has been part of various\nMachine Learning solutions built specific to clients across industries",
+      "url": "https://www.linkedin.com/company/1073",
+      "location": "Hyderabad Area, India"
+    },
+    {
+      "name": "System Soft Technologies",
+      "position": "Data Analyst",
+      "startDate": "2019-10-31",
+      "endDate": "2019-12-31",
+      "highlights": [],
+      "summary": "1.worked with BigData Team on an application for Cybersecurity( Elysium Analytics)\n•Elysium’s Cognitive Security Analytics: It offers a powerful solution to extract security insights from data sources generated within an organization.\n2.written shell scripts to run cron job scheduler for scheduling tasks to run on the server.\n3.pulled data from the Hive Servers and used in zoom Data Tool for Visualization.\n4.Apache Metron: Metron integrates a variety of open source big data technologies in order to offer a centralized tool for security monitoring and analysis. Metron provides capabilities for log aggregation, full packet capture indexing, storage, advanced behavioural analytics and data enrichment while applying the most current threat intelligence information to security telemetry within a single platform.\n5.Used Apache Metron Stellar Language for Creating Profilers.\n6.Metron Profiler: The Profiler is a feature extraction mechanism that can generate a profile describing the behaviour of an entity. An entity might be a server, user, subnet or application. Once a profile has been generated defining what normal behaviour looks-like, models can be built that identify anomalous behaviour.\n7.Used MySql (advance level) to pull data from various servers.\n8. Hands-on Jupyter notebook used various functions in it.\n9.Apache Ambari: it is a part of the Hortonworks Data Platform, allows enterprises to plan, install and securely configure HDP making it easier to provide ongoing cluster maintenance and management, no matter the size of the cluster. It is a secure platform for provisioning, managing, and monitoring HDP deployments.",
+      "url": "https://www.linkedin.com/company/1379045",
+      "location": "Hyderabad Area, India"
+    },
+    {
+      "name": "Path Creators - India",
+      "position": "Machine Learning Intern",
+      "startDate": "2018-03-31",
+      "endDate": "2018-05-31",
+      "highlights": [],
+      "summary": "A two-month internship program where Machine-Learning is taught from basics to the\n advanced level and an Industrial project was given to work on. \nProject: Cloud Irrigation System \nKey Skills Gained: Python (Data frame -Pandas, Numpy, Scikit- learn, seaborn and matplotlib), Machine learning (Regression, Classification, Linear Regression, Logistic Regression, Decision Tree, SVM, KNN, K-Means, Random Forest), Deep learning, Jupyter NoteBook.\n",
+      "url": "https://www.linkedin.com/company/7918564",
+      "location": "Hyderabad Area, India"
+    },
+    {
+      "name": "THE TECH FEST 2017",
+      "position": "Student Volunteer",
+      "startDate": "2017-07-31",
+      "endDate": "2017-09-30",
+      "highlights": [],
+      "summary": "TheTechFest is the 2 days technology conference for students organized by EngineersHub. TheTechFest hosts various activities that includes Technology Talks, Tech Product Showcase, Workshops, exhibitions.\nTheTechFest started in 2016 with an idea of connecting students to technology experts, technology products and make them aware of latest technologies and the way to approach technologies to build products. It is the first event for students hosted by a private body\n",
+      "url": "",
+      "location": "Hyderabad Area, India"
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Dr.Kkr's Gowtham Concept School - ECIL",
+      "area": "Secondary school",
+      "studyType": "",
+      "startDate": "2012-12-31",
+      "endDate": "2013-12-31",
+      "score": "A+",
+      "courses": []
+    },
+    {
+      "institution": "Sreenidhi Institute of Science and Technology",
+      "area": "Information Technology",
+      "studyType": "Bachelor of Technology - BTech",
+      "startDate": "2015-12-31",
+      "endDate": "2019-12-31",
+      "score": "CGPA - A+",
+      "courses": []
+    },
+    {
+      "institution": "Portland State University",
+      "area": "Computer Science",
+      "studyType": "Master of Science - MS",
+      "startDate": "2021-09-30",
+      "endDate": "2023-03-31",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Narayana Junior College",
+      "area": "",
+      "studyType": "Intermediate",
+      "startDate": "2013-12-31",
+      "endDate": "2015-12-31",
+      "score": "A+",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "Udemy online course on Machine Learning",
+      "issuer": "Udemy",
+      "startDate": "2018-03-31",
+      "url": "http://ude.my/UC-U2PT45J"
+    },
+    {
+      "name": "AMCAT Certified Software Development Trainee",
+      "issuer": "Aspiring Minds",
+      "startDate": "2019-08-31",
+      "url": "https://www.myamcat.com/certificate/9712360/software-development-trainee/166"
+    },
+    {
+      "name": "Digital Forensics & Electronic Evidence",
+      "issuer": "Udemy",
+      "startDate": "2020-01-31",
+      "url": "http://ude.my/UC-O1C8TN2H"
+    },
+    {
+      "name": "Crash Course on Python by Google",
+      "issuer": "Coursera",
+      "startDate": "2020-05-31",
+      "url": "https://www.coursera.org/account/accomplishments/certificate/XD3J9EY3N762"
+    },
+    {
+      "name": "Programming for Everybody (Getting Started with Python)",
+      "issuer": "Coursera",
+      "startDate": "2020-05-31",
+      "url": "https://www.coursera.org/account/accomplishments/certificate/MANQYMHJEEEP"
+    },
+    {
+      "name": "Machine Learning",
+      "issuer": "Coursera",
+      "startDate": "2020-04-30",
+      "url": "https://www.coursera.org/account/accomplishments/certificate/5VNE477TWGXB"
+    },
+    {
+      "name": "Certified BrainSpace Administrator",
+      "issuer": "Brainspace",
+      "startDate": "2020-05-31",
+      "url": "https://www.credential.net/b421d9ba-26c4-4ae5-9f51-eb54f379ffc0#gs.9b994c"
+    },
+    {
+      "name": "Certified BrainSpace Analyst",
+      "issuer": "Brainspace",
+      "startDate": "2020-04-30",
+      "url": "https://www.credential.net/778620be-41d2-4ff9-8927-455f5045d909#gs.9b9map"
+    },
+    {
+      "name": "Certified BrainSpace Specialist",
+      "issuer": "Brainspace",
+      "startDate": "2020-04-30",
+      "url": "https://www.credential.net/cff1f33d-b643-4cef-881b-cefd5df6ab2c#gs.9b9mgj"
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Data Science",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Data Analytics",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Computer Forensics",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Machine Learning",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Java",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "MySQL",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "C (Programming Language)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "SQL",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Digital Forensics",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Data Visualization",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Python (Programming Language)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Deep Learning",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Leadership",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Data Mining",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Tableau",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "HTML",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Matplotlib",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Cybersecurity",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Project Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "C#",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Machine Learning Algorithms",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft Office",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Databases",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native Speaker"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": [
+    {
+      "name": "Crypto Cloud Secure And Expressive Data Access Control On Cloud Storage ",
+      "startDate": "2018-12-31",
+      "summary": "•\tCloud computing is very popular in organizations and institutions because it provides storage and computing services at very low cost. \n•\tHowever, it also introduces new challenges for ensuring the confidentiality, integrity and access control of the data. \n•\tSome approaches are given to ensure these security requirements but they are lacked in some ways such as violation of data confidentiality due to collusion attack and heavy computation (due to large no keys). \n•\tTo address these issues we proposed a scheme that uses “Crypto Cloud Secure and expressive data access control on cloud storage” in which data owner divides users in groups and gives the single key to each user group for decryption of data and, each user in the group shares parts of the key.\n•\tIn this paper, we use encryption & decryption algorithms to control access. This scheme not only provides strong data confidentiality but also reduces the number of keys.\n",
+      "url": null,
+      "endDate": "2019-05-31"
+    },
+    {
+      "name": "Hand Movement Detection Using Opensource Computer Vision",
+      "startDate": "2019-03-31",
+      "summary": "it is a  video tracking where an algorithm analyzes sequential video frames and outputs the\n movement of targets between the frames and the major components of a visual tracking system used are target representation, localization, filtering and data association.\nit's main idea is to detect the different symbols which are shown using the human Hand (detecting hand gestures)",
+      "url": null,
+      "endDate": "2019-05-31"
+    },
+    {
+      "name": "Irrigation Cloud System (Machine Learning in agriculture)",
+      "startDate": "2019-01-31",
+      "summary": "Applied machine learning techniques in order to predict required irrigation quantities\n based on past irrigation plans and data that is collected from soil and plant sensors. My\n research demonstrates the potential of machine learning in the context of precision agriculture.\n Besides irrigation, we also discuss other uses - for yield prediction and disease prediction.",
+      "url": null,
+      "endDate": "2019-03-31"
+    },
+    {
+      "name": "campus recruitment system",
+      "startDate": "2017-08-31",
+      "summary": "Development of web based campus recruitment management software system for universities and software companies\nThe system handles student as well as company data and efficiently displays all this data to respective sides.\n",
+      "url": null,
+      "endDate": "2017-12-31"
+    }
+  ],
+  "meta": {
+    "version": "v1.0.0",
+    "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
+  }
+}
